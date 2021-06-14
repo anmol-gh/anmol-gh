@@ -1,4 +1,3 @@
-![](https://pasteboard.co/K6Bp8at.gif)
 
 ![](https://media-exp1.licdn.com/dms/image/C4E16AQFxjQ5YIWnLnw/profile-displaybackgroundimage-shrink_350_1400/0/1604658237306?e=1629331200&v=beta&t=N8NWMczA3fE4FJJQmqGcqHUHkSfBVE45BSeZou_Sz4A)
 <br>
@@ -18,5 +17,4 @@ Skills: Python/HTML/CSS/JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=noob-anmol&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=noob-anmol)  
 
