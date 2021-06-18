@@ -6,7 +6,7 @@
 
 I am Anmol, an enthusiastic Computer Science student. 
 
-Skills: Python/HTML/CSS/JS/Selenium/Flask/
+Skills: Python/HTML/CSS/JS/Selenium/Flask/Figma/Canva
 
 
 
@@ -18,4 +18,4 @@ Skills: Python/HTML/CSS/JS/Selenium/Flask/
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=noob-anmol)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noob-anmol&label=Profile%20views&color=0e75b6&style=flat" alt="RahulMaurya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noob-anmol&label=Profile%20views&color=0e75b6&style=flat" alt="Anmol_Ghai_Profile_Views" /> </p>
