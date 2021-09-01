@@ -19,3 +19,6 @@ Skills: Python/HTML/CSS/JS/Selenium/Flask/Figma/Canva
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=noob-anmol)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noob-anmol&label=Profile%20views&color=0e75b6&style=flat" alt="Anmol_Ghai_Profile_Views" /> </p>
+
+
+[<img src='https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg'>]
