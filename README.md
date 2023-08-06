@@ -21,7 +21,6 @@ Skills: Python/HTML/CSS/JS/Selenium/Flask/Figma/Canva
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=anmol-gh" width = "350px">
   
 </div>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anmol-gh)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noob-anmol&label=Profile%20views&color=0e75b6&style=flat" alt="Anmol_Ghai_Profile_Views" /> </p>
 
