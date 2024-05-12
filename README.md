@@ -1,28 +1,62 @@
+## Hey, I'm [Anmol](https://www.linkedin.com/in/anmol-ghai/)!
 
-![](https://media-exp1.licdn.com/dms/image/C4E16AQFxjQ5YIWnLnw/profile-displaybackgroundimage-shrink_350_1400/0/1604658237306?e=1629331200&v=beta&t=N8NWMczA3fE4FJJQmqGcqHUHkSfBVE45BSeZou_Sz4A)
-<br>
-### Hi there 👋, Caution⚠: You are about to read a Noob's Github profile
+[![Twitter Follow](https://img.shields.io/twitter/follow/anmol_gh_?label=Follow)](https://twitter.com/intent/follow?screen_name=anmol_gh_)
+[![Linkedin: anmol](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/anmol-ghai/)](https://www.linkedin.com/in/anmol-ghai/)
+![GitHub followers](https://img.shields.io/github/followers/anmol-gh?label=Follow&style=social)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=anmol-gh.anmol-gh)
 
-
-I am Anmol, an enthusiastic Computer Science student. 
-
-Skills: Python/HTML/CSS/JS/Selenium/Flask/Figma/Canva
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/noob-anmol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anmol-ghai/) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-gh)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📈Stats
-
-<div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=anmol-gh&show_icons=true" width = "350px">
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=anmol-gh" width = "350px">
-  
+<div align="center">
+I'm a <b>DevOps</b> and <b>Full Stack</b> Enthusiast, a pre-final year student at the University of Petroleum and Energy Studies <br> Currently pursuing BTech CSE specializing in DevOps.
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noob-anmol&label=Profile%20views&color=0e75b6&style=flat" alt="Anmol_Ghai_Profile_Views" /> </p>
+<br>
 
+<div align="center">
+ <b>Let's collaborate on full stack projects!🚀</b>
+</div>
 
-<img src='https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg'>
+## **Devlopment Tools**
+
+### 🧑🏻‍💻 _Languages_
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,java&theme=dark)](https://skillicons.dev)
+
+### 🔎 _Frameworks_
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
+
+### 🛅 _Databases_
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma&theme=dark)](https://skillicons.dev)
+
+### ☁️ _Cloud Providers_
+
+[![My Skills](https://skillicons.dev/icons?i=aws,netlify&theme=dark)](https://skillicons.dev)
+
+### 📜 _Scripting_
+
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell&theme=dark)](https://skillicons.dev)
+
+### 👀 _Devops_
+
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,terraform,selenium&theme=dark)](https://skillicons.dev)
+
+### 💻 _OS_
+
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,linux&theme=dark)](https://skillicons.dev)
+
+### _Other Tools/IDEs_
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,maven,postman,pnpm,npm&theme=dark)](https://skillicons.dev)
+
+# Connect me for more 🛜
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/anmol_gh_?label=Follow)](https://twitter.com/intent/follow?screen_name=anmol_gh_)
+<br>
+
+[![Linkedin: anmol](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/anmol-ghai/)](https://www.linkedin.com/in/anmol-ghai/)
+<br>
+
+![GitHub followers](https://img.shields.io/github/followers/anmol-gh?label=Follow&style=social)
+
+![visitors](https://komarev.com/ghpvc/?username=anmol-gh&label=Profile%20views&color=0e75b6&style=flat)
