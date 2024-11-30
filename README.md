@@ -1,7 +1,9 @@
 ## Hey, I'm [Anmol](https://www.linkedin.com/in/anmol-ghai/)!
 
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/anmol-gh/achievements?format=svg&limit=3" width="350" />
+<a href="https://vaunt.dev/">
+        <img src="https://api.vaunt.dev/v1/github/entities/anmol-gh/contributions?format=svg" width="350" />
+    </a>
 </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/anmol_gh_?label=Follow)](https://twitter.com/intent/follow?screen_name=anmol_gh_)
