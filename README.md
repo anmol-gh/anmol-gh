@@ -1,5 +1,9 @@
 ## Hey, I'm [Anmol](https://www.linkedin.com/in/anmol-ghai/)!
 
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/anmol-gh/achievements?format=svg&limit=3" width="350" />
+</p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/anmol_gh_?label=Follow)](https://twitter.com/intent/follow?screen_name=anmol_gh_)
 [![Linkedin: anmol](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/anmol-ghai/)](https://www.linkedin.com/in/anmol-ghai/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol-gh?label=Follow&style=social)
